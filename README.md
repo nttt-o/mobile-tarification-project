@@ -1,4 +1,5 @@
 # mobile-tarification-project
+[Introduction to Programming HSE Course]
 ## Тарификация услуг мобильной связи
 Условие задания находятся в файле requirements.pdf
 
